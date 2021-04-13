@@ -1,4 +1,4 @@
-# repeating_string
+# repeating_string hackerrank
 Function Description
 
 Complete the repeatedString function in the editor below.
